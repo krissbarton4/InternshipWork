@@ -1,0 +1,9 @@
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\bin\Debug\netcoreapp1.1\MockUpAttmpt1.deps.json
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\bin\Debug\netcoreapp1.1\MockUpAttmpt1.runtimeconfig.json
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\bin\Debug\netcoreapp1.1\MockUpAttmpt1.runtimeconfig.dev.json
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\bin\Debug\netcoreapp1.1\MockUpAttmpt1.dll
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\bin\Debug\netcoreapp1.1\MockUpAttmpt1.pdb
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\obj\Debug\netcoreapp1.1\MockUpAttmpt1.csprojResolveAssemblyReference.cache
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\obj\Debug\netcoreapp1.1\MockUpAttmpt1.AssemblyInfo.cs
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\obj\Debug\netcoreapp1.1\MockUpAttmpt1.dll
+C:\Users\kriss.barton\Desktop\MockUpAttmpt1\MockUpAttmpt1\obj\Debug\netcoreapp1.1\MockUpAttmpt1.pdb
